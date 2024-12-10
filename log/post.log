@@ -1,0 +1,21 @@
+INFO 2024-12-10 17:36:34,174 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-12-10 17:36:38,643 basehttp 213 "GET / HTTP/1.1" 200 5217
+INFO 2024-12-10 17:36:38,934 basehttp 213 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,944 basehttp 213 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,945 basehttp 213 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,947 basehttp 213 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,951 basehttp 213 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,967 basehttp 213 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,970 basehttp 213 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,973 basehttp 213 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,977 basehttp 213 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,978 basehttp 213 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:38,987 basehttp 213 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-12-10 17:36:39,032 basehttp 213 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2024-12-10 17:36:39,230 log 248 Not Found: /favicon.ico
+WARNING 2024-12-10 17:36:39,231 basehttp 213 "GET /favicon.ico HTTP/1.1" 404 3858
+INFO 2024-12-10 17:36:41,179 basehttp 213 "GET /dj/ HTTP/1.1" 200 12397
+INFO 2024-12-10 17:36:41,228 basehttp 213 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+WARNING 2024-12-10 17:37:32,818 log 248 Bad Request: /dj/
+WARNING 2024-12-10 17:37:32,820 basehttp 213 "POST /dj/ HTTP/1.1" 400 10071
+INFO 2024-12-10 17:37:58,998 basehttp 213 "POST /dj/ HTTP/1.1" 201 10500
